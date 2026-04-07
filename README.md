@@ -1,10 +1,15 @@
 **Online Library System**
 
+
 **🚀Project Overview**
+
 
 The Online Library System is a React-based web application that allows users to browse books, view detailed information, and add new books to the collection. It uses Redux for state management and React Router for navigation.
 
+
+
 **✨ Features**
+
 
 🏠 Home page with welcome message and book categories
 
@@ -24,10 +29,12 @@ The Online Library System is a React-based web application that allows users to 
 
 📱 Responsive design
 
+
+
 **🛠️ Tech Stack**
 
-**1.** React
 
+**1.** React
 
 **2.** React Router DOM
 
@@ -37,25 +44,34 @@ The Online Library System is a React-based web application that allows users to 
 
 **5.** CSS
 
+
+
 **⚙️ Installation & Setup**
+
 
 **1.** Clone the repository:
 
 git clone https://github.com/SakshiVerma17/online-library-system.git
 
+
 **2.** Navigate into the project folder:
 
 ```cd my-app```
+
 
 **3.** Install dependencies:
 
 ```npm install```
 
+
 **4.** Run the application:
 
 ```npm run dev```
 
+
+
 **📂 Project Structure**
+
 
 components → Navbar
 
@@ -64,6 +80,8 @@ pages → Home, BrowseBooks, AddBook, BookDetails, PageNotFound
 data → dummyBooks
 
 redux → booksSlice
+
+
 
 **🎯 Key Functionalities**
 
@@ -77,9 +95,13 @@ redux → booksSlice
  
  **->** Form handling with validation
 
+
+
 **👨‍💻 Author**
 
 Sakshi Verma
+
+
 
 **📌 Notes**
 This project was built as part of a React assignment.
